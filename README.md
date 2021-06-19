@@ -12,7 +12,7 @@ Step - 1: Create a Virtual Environment by using python -m venv melanoma
 
 Step - 2: Install the packages
 
-Step - 3: Download templates, static, app.py, model_resnet152V2.h5 
+Step - 3: Download templates, uploads,  static, app.py, model_resnet152V2.h5 
 
 Step - 4: python app.py 
 
